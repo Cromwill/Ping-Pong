@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250ee1d883fd99b49a4c6b691486a83c, type: 3}
+  m_Name: PlayerKeys_3
+  m_EditorClassIdentifier: 
+  MoveUp: 0
+  MoveDown: 0
+  RotateLeft: 0
+  RotateRight: 0
+  UseItem: 0
+  SelectShopRight: 0
+  SelectShopLeft: 0
+  Buy: 0

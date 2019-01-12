@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CachedLink&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAACAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Boll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boll" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQEAAACAEAAAAAQAAAAAAAAAQQADAAACgACAIACA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Boll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorizontalWall" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\HorizontalWall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUAAAAAACgAABAIAQAAAABAAAAAAAAIQAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pointer" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAQAAAaAiABAABCAAAAABIAAAAAAAgAAIAAAAgQA=</HashCode>
+      <FileName>Assets\Scripts\Pong\StartScreen\Pointer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartScreenButton" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAgAAAAAgAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\StartScreen\StartScreenButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartScreenScript" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAACAABAAIA=</HashCode>
+      <FileName>Assets\Scripts\Pong\StartScreen\StartScreenScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAACAgAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FillingInKeyMap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAEAAAAAQACIAAAAAAAABAAIAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\FillingInKeyMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KeyMap" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAsQAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\KeyMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInspector" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\NewEditorScript1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Move" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scene_2\Move.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestBoll" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAgAKAAAAAAASAAAAAAAAAAAQAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Test\TestBoll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestWall" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Test\TestWall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PongV2.KeyboardPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAQAAABAAAAAEAgAAAAAAAgAACAAAACAAAAgg=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\KeyboardPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PongV2.PlayerFactory" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAIAAEAAAAAAAAAAADAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\PlayerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PongV2.Score" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAQEAAgAAAAAIAAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PongV2.Side" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSAAAACAADAAAAjAAAAAAAAAAAAgAAQAAAgAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\Side.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PongV2.SimpleAvatar" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAACAAAAAAAABAAAAAAAAAAAAAQIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\SimpleAvatar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Assets.Scripts.Pong.Interface.IItem" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Interface\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assets.Scripts.Pong.Interface.IItemsShop" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Interface\IItemsShop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assets.Scripts.Pong.Interface.IKeyStorage" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong\Interface\IKeyStorage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PongV2.IPlayer" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAAABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\Side.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PongV2.IAvatar" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\Side.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PongV2.DirectionSide" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Pong V2\Side.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
